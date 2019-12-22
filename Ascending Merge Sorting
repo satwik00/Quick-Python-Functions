@@ -1,5 +1,5 @@
 """merg sorting
-when both the list emtered are sorted
+when both the list entered are sorted
 asc + asc = asc"""
 
 list1 = eval(input("List1: "))
